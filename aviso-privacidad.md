@@ -2,9 +2,10 @@
 
 Fecha de última actualización: 2025-10-22
 
-Responsable: [Nombre de la empresa o persona responsable]
-Contacto: [correo@ejemplo.com]
-Domicilio: [Dirección completa o indicar "México"]
+Responsable: Althea Systems
+Contacto: Melchor Llavona
+Correo: melchor@altheasys.com
+Domicilio: Factores Mutuos 119-b, Col. Leons, Monterrey, N.L. C.P. 64600
 
 1. ¿Para qué fines utilizaremos sus datos personales?
 
@@ -42,7 +43,7 @@ Adoptamos las medidas de seguridad administrativas, técnicas y físicas necesar
 
 Usted tiene el derecho de Acceso, Rectificación, Cancelación y Oposición (ARCO), así como a revocar su consentimiento para el tratamiento de sus datos y a limitar su uso o divulgación. Para ejercer estos derechos, envíe una solicitud a:
 
-Correo: [correo@ejemplo.com]
+Correo: melchor@altheasys.com
 
 Favor de incluir en su solicitud:
 
